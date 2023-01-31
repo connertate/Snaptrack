@@ -1,3 +1,21 @@
+# Overview
+We take your privacy very seriously. Snaptrack app does not collect any personal data. All information that you input into the Snaptrack app remains privately stored on your device.
+
+# ayment Data and Purchase History
+The App uses RevenueCat to manage trial versions and paid subscriptions. RevenueCat's Privacy Policy can be found here: https://www.revenuecat.com/privacy/
+
+# Your Consent
+By using the Snaptrack app, you consent to this privacy policy.
+
+# Changes to this Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. These changes are effective immediately after they are posted on this page.
+
+# Contact Us
+If you have any questions or suggestions, you can contact us at connertate8 [at] gmail [dot] com
+
+If you contact us through this email, we will see your name and email address. Your information is only to assist us in providing customer support to you and won’t be added to a mailing list or sold to a third-party company. If you wish, you may email us to remove your name and email address from our inbox.
+
+
 # Privacy Policy
 
 Conner Tate built the Snaptrack app as an Ad Supported app. This SERVICE is provided by Conner Tate at no cost and is intended for use as is.
