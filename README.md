@@ -1,7 +1,7 @@
 # Overview
 We take your privacy very seriously. Snaptrack app does not collect any personal data. All information that you input into the Snaptrack app remains privately stored on your device.
 
-# ayment Data and Purchase History
+# Payment Data and Purchase History
 The App uses RevenueCat to manage trial versions and paid subscriptions. RevenueCat's Privacy Policy can be found here: https://www.revenuecat.com/privacy/
 
 # Your Consent
