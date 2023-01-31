@@ -1,15 +1,12 @@
-# Support
+# Support & Contact
 We take your privacy very seriously. Snaptrack app does not collect any personal data. All information that you input into the Snaptrack app remains privately stored on your device.
 
-# Your Consent
-By using the Snaptrack app, you consent to this privacy policy.
-
-# Contact Us
 If you have any questions or suggestions, you can contact us at connertate8 [at] gmail [dot] com
 
 If you contact us through this email, we will see your name and email address. Your information is only to assist us in providing customer support to you and won’t be added to a mailing list or sold to a third-party company. If you wish, you may email us to remove your name and email address from our inbox.
 
-
+# Your Consent
+By using the Snaptrack app, you consent to this privacy policy.
 
 # Privacy Policy
 
