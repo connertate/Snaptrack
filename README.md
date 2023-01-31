@@ -1,4 +1,4 @@
-# Snaptrack Support & Privacy Policy
+# Support
 We take your privacy very seriously. Snaptrack app does not collect any personal data. All information that you input into the Snaptrack app remains privately stored on your device.
 
 # Your Consent
